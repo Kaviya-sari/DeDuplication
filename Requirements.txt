@@ -1,0 +1,8 @@
+Streamlit 
+pandas
+numpy
+matplotlib
+pyPDF2
+python=docx
+hashlib
+json
